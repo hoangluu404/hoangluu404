@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 Check out my cool website
+https://hoang404helloworld.web.app
 
 <!--
 **hoangluu404/hoangluu404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
